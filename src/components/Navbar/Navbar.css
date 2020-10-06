@@ -1,0 +1,9 @@
+.app__registerBtn {
+  border: none;
+  margin-left: 10px;
+}
+.app__menu a {
+  margin-left: 20px;
+  color: black;
+  font-weight: 500;
+}
